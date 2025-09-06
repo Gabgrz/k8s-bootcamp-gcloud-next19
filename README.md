@@ -60,8 +60,8 @@ kubectl apply -f k8s/canary/
 ## Project Structure
 
 ```
-├── k8s-bootcamp-app/          # Main application code
-│   ├── main.go               # Application entry point
+├── k8s-bootcamp-app/        # Main application code
+│   ├── main.go              # Application entry point
 │   ├── html.go              # Frontend templates
 │   ├── Dockerfile           # Container configuration
 │   └── k8s/                 # Kubernetes manifests
