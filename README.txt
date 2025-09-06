@@ -1,3 +1,0 @@
-Hello   
-
-Message from Gitlab 
